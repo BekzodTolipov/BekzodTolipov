@@ -1,4 +1,4 @@
-<p align="center" style="font-weight:500;">
+<p align="center" style="font-weight:900;">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Bekzod+Tolipov+Software+Engineer!;"
  <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
 </p>
