@@ -1,7 +1,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&weight=800&size=60&lines=Bekzod+Tolipov+Software+Engineer!;"
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&weight=800&size=40&lines=Bekzod+Tolipov+Software+Engineer!;"
  <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
 </p>
 <br>
