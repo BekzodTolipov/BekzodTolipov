@@ -34,4 +34,4 @@ I am a recent graduate of a data science bootcamp and a certified **TensorFlow**
 
 #
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bekzodtolipov&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bekzodtolipov&repo=github-readme-stats)](https://github.com/bekzodtolipov/github-readme-stats)
