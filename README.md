@@ -4,6 +4,8 @@
 
 I am a recent graduate of a data science bootcamp and a certified **TensorFlow** developer with a strong passion for continuous learning and skill improvement. In addition to my technical expertise, I have a keen interest in hiking, particularly in the mountains 🏔️. I also find joy in grappling and have been training in this discipline for nearly two years. I am always enthusiastic about discussing my training experiences. Currently based in Austin, TX, I am excited to apply my knowledge and skills to contribute to the field of data science.
 
+#
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -19,6 +21,8 @@ I am a recent graduate of a data science bootcamp and a certified **TensorFlow**
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+#
 
 ### 📊 Stats
 
