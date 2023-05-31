@@ -29,3 +29,9 @@ I am a recent graduate of a data science bootcamp and a certified **TensorFlow**
 ### 📊 Stats
 
 ![Bek's GitHub stats](https://github-readme-stats.vercel.app/api?username=BekzodTolipov&show_icons=true&theme=gruvbox)
+
+<br/>
+
+#
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bekzodtolipov&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
