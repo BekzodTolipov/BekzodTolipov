@@ -34,6 +34,4 @@ I am a recent graduate of a data science bootcamp and a certified **TensorFlow**
 
 #
 
-### 📊 Top Languages Card
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BekzodTolipov&show_icons=true&theme=gruvbox)](https://github.com/BekzodTolipov/github-readme-stats)
