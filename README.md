@@ -12,6 +12,12 @@ I am a recent graduate of a data science bootcamp and a certified **TensorFlow**
 
 #
 
+### <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> Badges
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74087320" />
+
+#
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
