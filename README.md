@@ -14,10 +14,8 @@ I am a recent graduate of a data science bootcamp and a certified **TensorFlow**
 
 #
 
-### <img align="left" alt="Badge" width="20px" style="margin-right:10px;margin-top:8px;" src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> Badges
-<br/>
+### <img align="left" alt="Badge" width="20px" style="margin-right:10px;margin-top:5px;" src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> Badges
 <img alt="Tensorflow-Badge" width="90px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74087320" />
-
 <br/>
 
 #
